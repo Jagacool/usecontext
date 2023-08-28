@@ -16,7 +16,6 @@ import { NotFoundPage } from "./NotFoundPage";
 import { ProductDetails } from "./ProductDetails";
 import { AddProduct } from "./AddProduct";
 import ExampleContext from "./context/ExampleContext";
-import TicTacToe from "./TicTacToe";
 import { EditProduct } from "./EditProduct";
 
 export const INITIAL_PRODUCT_LIST = [

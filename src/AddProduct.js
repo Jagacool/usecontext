@@ -3,8 +3,6 @@ import TextField from "@mui/material/TextField";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { API } from "./global";
-import { AddProduct } from "./AddProduct";
-
 
 //Task
 // products/add => <AddProduct/>
